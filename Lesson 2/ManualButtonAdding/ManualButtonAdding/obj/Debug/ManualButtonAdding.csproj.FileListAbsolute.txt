@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\bin\Debug\ManualButtonAdding.exe.config
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\bin\Debug\ManualButtonAdding.exe
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\bin\Debug\ManualButtonAdding.pdb
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.Form1.resources
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.Properties.Resources.resources
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.exe
+C:\Users\Pc\source\repos\ManualButtonAdding\ManualButtonAdding\obj\Debug\ManualButtonAdding.pdb

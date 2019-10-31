@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\bin\Debug\ManualListAdding.exe.config
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\bin\Debug\ManualListAdding.exe
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\bin\Debug\ManualListAdding.pdb
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.Form1.resources
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.Properties.Resources.resources
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.exe
+C:\Users\Pc\source\repos\ManualListAdding\ManualListAdding\obj\Debug\ManualListAdding.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.Form1.resources
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.Properties.Resources.resources
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\bin\Debug\ManualAddingGame.exe.config
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\bin\Debug\ManualAddingGame.exe
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\bin\Debug\ManualAddingGame.pdb
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.exe
+C:\Users\Pc\source\repos\ManualAddingGame\ManualAddingGame\obj\Debug\ManualAddingGame.pdb
